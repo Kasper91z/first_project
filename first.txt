@@ -1,3 +1,4 @@
 Hello Java Junior Academy 2016 Q2 team!!!
 This the 1st day of the training, it is very interesting.
 This is the implementation of feature100.
+MOdification on master.
